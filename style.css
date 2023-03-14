@@ -1,0 +1,92 @@
+#crs {
+    background-color: darksalmon;
+    height: 500px;
+    border-radius: 10px;
+
+
+}
+.juta{
+    font: yellow;
+    
+}
+#juta{
+    margin-left: 10px;
+}
+
+
+.crc{
+    margin-bottom: 30px;
+    border-radius: 10px;
+}
+.text-center{
+    text-align: center;
+    font-style: none;
+}
+.ghori{
+    font: yellow;
+    margin-left:10px ;
+}
+.watch{
+    background-color:  orange;
+    border-radius: 10px;
+    padding: 10px 30px;
+   
+}
+
+
+
+.bag{
+    background-color:  orchid;
+    border-radius: 10px;
+    padding: 10px 30px;
+}
+.shoes{
+    background-color:  blue;
+    border-radius: 10px;
+    padding: 10px 30px;
+}
+.categories h1{
+    color:white ;
+}
+.categories img{
+    width: 100px;
+}
+.card-body{
+    background-color: darkslategrey;
+   
+}
+.card-group img{
+    background-color:  peru;
+    height: 400px;
+}
+.row{
+    color: white;
+}
+.card{
+    margin: 50px 10px 10px 10px;
+    border-radius: 10px ;
+}
+#card{
+    margin-bottom: 20px;
+}
+.card-body h1{
+    color: rgb(152, 177, 15);
+}
+.card-body h3{
+    color: rgb(235, 9, 9);
+}
+.card-body h5{
+    color: rgb(75, 146, 252);
+}
+.card-body h4{
+    color: rgb(201, 12, 100);
+}
+#touch{
+    background-color: antiquewhite;
+    width: 80%;
+    height: 200px;
+    border-radius: 10px;
+}
+.tch{
+    padding: 20px 350px;
+}
